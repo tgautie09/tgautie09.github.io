@@ -93,7 +93,7 @@ p {
 }
 
 .tm-translucent-light-brown-bg {
-  background-color: rgba(211, 181, 158, 0.8);
+  background-color: rgba(211, 181, 158, 0.85);
 }
 
 .tm-btn,
@@ -165,7 +165,7 @@ p {
 }
 .tm-page-content-width,
 .tm-content-box {
-  min-height: 500px;
+  min-height: 750px;
 }
 
 .tm-flex-col {
