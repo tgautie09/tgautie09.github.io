@@ -87,13 +87,13 @@ p {
   min-height: 950px;
 }
 
-.tm-white-bg {
+.tm-light-brown-bg {
   background-color: #d3b59e;
   color: #676362;
 }
 
-.tm-translucent-white-bg {
-  background-color: rgba(255, 255, 255, 0.58);
+.tm-translucent-light-brown-bg {
+  background-color: rgba(211, 181, 158, 0.8);
 }
 
 .tm-btn,
@@ -165,7 +165,7 @@ p {
 }
 .tm-page-content-width,
 .tm-content-box {
-  min-height: 1150px;
+  min-height: 500px;
 }
 
 .tm-flex-col {
