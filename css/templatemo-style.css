@@ -7,7 +7,7 @@ https://templatemo.com/tm-504-page-one
 */
 
 body {
-  font-size: 21px;
+  font-size: 19px;
   overflow-x: hidden;
 }
 
@@ -54,11 +54,10 @@ button:focus {
 
 p {
   line-height: 1.8;
-  margin-bottom: 50px;
 }
 
 .tm-section-title {
-  font-size: 2.6rem;
+  font-size: 2rem;
   margin-bottom: 2rem;
 }
 
@@ -100,7 +99,7 @@ p {
 .tm-btn:visited {
   display: block;
   float: right;
-  font-size: 1.8rem;
+  font-size: 21px;
   font-weight: 300;
   color: white;
   background-color: #983333;
@@ -322,6 +321,7 @@ p {
   .tm-media {
     flex-direction: column;
     align-items: center;
+    margin-bottom: 50px;
   }
 
   .tm-media-icon {
